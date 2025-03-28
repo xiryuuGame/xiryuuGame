@@ -41,4 +41,4 @@ Selamat datang di profil GitHub saya! Saya seorang siswa SMK PGRI 2 Cibinong yan
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/apkdroid.official/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xiryu_05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farrel.z.rahmanda@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in
+
